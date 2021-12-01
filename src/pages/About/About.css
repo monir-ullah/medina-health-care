@@ -1,0 +1,7 @@
+/* This style use for About page and only screen of (360px0 */
+@media screen 
+  and (min-device-width: 360px){
+      img{
+          width: 250px;
+      }
+  }

@@ -1,0 +1,40 @@
+[
+    {
+       "id": "1",
+       "title": "Therapiya",
+       "description" : "Laboratory Place In Medical Practice. Every day is a new opportunity for you to do something for your health.Every day is a new opportunity for you to do something for your health.A team of dentists working to ensure you receive the best treatment.",
+       "image": "https://i.ibb.co/PcrVrKF/Therapiya.png"
+    },
+    {
+      "id": "2",
+      "title": "Pharmacy",
+      "description" : "Laboratory Place In Medical Practice. Every day is a new opportunity for you to do something for your health.Every day is a new opportunity for you to do something for your health.A team of dentists working to ensure you receive the best treatment.",
+      "image": "https://i.ibb.co/RNXzBzH/thermometer-1539191-480-psd.png"
+    },
+    {
+      "id": "3",
+      "title": "Dentistry",
+      "description" : "Laboratory Place In Medical Practice. Every day is a new opportunity for you to do something for your health.Every day is a new opportunity for you to do something for your health.A team of dentists working to ensure you receive the best treatment.",
+      "image": "https://i.ibb.co/jJSPwGf/istockphoto-532170854-612x612.png"
+    },
+    
+    {
+      "id": "4",
+      "title": "Cardiology",
+      "description" : "Laboratory Place In Medical Practice. Every day is a new opportunity for you to do something for your health.Every day is a new opportunity for you to do something for your health.A team of dentists working to ensure you receive the best treatment.",
+      "image": "https://i.ibb.co/SdVKbHY/Cardiology.png"
+    },
+    {
+      "id": "5",
+      "title": "Virusology",
+      "description" : "Laboratory Place In Medical Practice. Every day is a new opportunity for you to do something for your health.Every day is a new opportunity for you to do something for your health.A team of dentists working to ensure you receive the best treatment.",
+      "image": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/3/shutterstock_1625661736.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Eye Surgery",
+      "description" : "Laboratory Place In Medical Practice. Every day is a new opportunity for you to do something for your health.Every day is a new opportunity for you to do something for your health.A team of dentists working to ensure you receive the best treatment.",
+      "image": "https://i.ibb.co/n8fXGNv/Eye-Surgery.png"
+    }
+    
+ ]
